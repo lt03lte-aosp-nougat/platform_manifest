@@ -533,6 +533,6 @@
   <project path="system/extras" name="lt03lte-aosp-nougat/platform_system_extras" remote="github" />
   <project path="system/media" name="lt03lte-aosp-nougat/platform_system_media" remote="github" />
   <project path="system/sepolicy" name="lt03lte-aosp-nougat/platform_system_sepolicy" remote="github" />
-  <project path="system/vold" name="lt03lte-aosp-nougat/android_system_vold" remote="github" />
+  <project path="system/vold" name="lt03lte-aosp-nougat/platform_system_vold" remote="github" />
 
 </manifest>
